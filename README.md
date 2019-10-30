@@ -1,2 +1,3 @@
-# redisDemo
 SpringBoot整合Redis
+
+需安装并启动Redis
